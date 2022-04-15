@@ -1,0 +1,6 @@
+# The following libraries are required and can be installed with pip
+numpy
+scipy
+matplotlib >= 3.4.0
+seaborn
+jupyter
